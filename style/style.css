@@ -8,6 +8,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
 }
 
 .text-primary {
@@ -46,7 +47,20 @@ nav a {
     color: #474747;
 }
 
+
 /* header related style */
 .header {
     background-color: #FFF8F3;
+}
+
+.banner {
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.banner-title {}
+
+.profile-picture {
+    width: 500px;
 }
